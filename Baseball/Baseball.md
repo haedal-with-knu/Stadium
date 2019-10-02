@@ -6,6 +6,6 @@
 ## [1. 첫 번째 방문](episodes/1.md)
 8.30 vs SK Wyvens (0:2 패배)
 
-## [2. 두 번째 방문](episodes/2.html)
+## [2. 두 번째 방문](episodes/2.md)
 9.27 vs SK Wyvens (0:4 패배)
 ## 3. 다음 방문은.. 인천 원정..?
